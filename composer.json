@@ -1,0 +1,12 @@
+{
+    "name": "antoniopapa/user-service",
+    "require": {
+        "laravel/framework": "^8.51"
+    },
+    "authors": [
+        {
+            "name": "Antonio Papa",
+            "email": "antoniopapa1991@gmail.com"
+        }
+    ]
+}
